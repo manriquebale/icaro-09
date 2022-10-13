@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Galletas",
+        "description": "Esta galleta blabla",
+        "price": 500
+    },
+    {
+        "id": 3,
+        "name": "Regalo",
+        "description": "Este regalo blabla",
+        "price": 2000
+    },
+    {
+        "id": 4,
+        "name": "Gaseosa",
+        "description": "Esta gaseosa blabla",
+        "price": 250
+    },
+    {
+        "id": 5,
+        "name": "Computadoras",
+        "price": 50000,
+        "description": "Esta computadora blabla"
+    },
+    {
+        "id": 6,
+        "name": "Muebles",
+        "price": 250000,
+        "description": "Este mueble blabla"
+    },
+    {
+        "id": 7,
+        "name": "Producto nuevo",
+        "price": 500,
+        "description": "Este producto blabla"
+    },
+    {
+        "id": 8,
+        "name": "Muebles",
+        "price": 250000,
+        "description": "Este mueble blabla"
+    }
+]
